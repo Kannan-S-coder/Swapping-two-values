@@ -18,7 +18,20 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
+```
+#Developed By : Kannan. S
+#Register No. : 212223230098
+```
+```
+a=input()
+b=input()
+t=a
+a=b
+b=t
+print("Swapped values are: {} {}".format(a,b))
+```
+## OUTPUT:
+![unit 1 exp1](https://github.com/Kannan-S-coder/Swapping-two-values/assets/147120710/e4be3d5c-d793-4a92-a898-058a14064753)
 
 
 ## RESULT:
